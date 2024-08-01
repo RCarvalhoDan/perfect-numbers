@@ -1,4 +1,4 @@
-#Perfect Number Spring Boot Application
+# Perfect Number Spring Boot Application
 
 This project provides two endpoints:
 1. An endpoint to check if a given number is a perfect number.
