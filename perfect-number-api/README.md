@@ -23,8 +23,8 @@ src/main/java/com/perfectnumber/api
 ### Running the Application
 1. Clone the repository:
 ```
-   git clone <repository-url>
-   cd perfect-number-springboot
+   git clone git@github.com:RCarvalhoDan/perfect-numbers.git
+   cd perfect-number-api
 ```
 
 2. Build the project
